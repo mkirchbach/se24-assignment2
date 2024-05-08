@@ -8,7 +8,7 @@ public class Main {
 
         // Create list and add some values...
         DoublyLinkedList list = new DoublyLinkedList();
-        list.append(new double[]{0.5, 4.2, 3.3, 0.9});
+        list.append(new double[]{0.5, 4.2, 3.3, 0.9, 0.1});
 
         System.out.println("\nThe list contains the following elements:");
         list.print();
